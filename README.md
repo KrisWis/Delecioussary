@@ -11,5 +11,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
    
+Или вы можете просто зайти на [сайт](https://kriswis.github.io/Delecioussary/), загруженный на Github Pages.
  # Макет вёрстки
  ![Website Template V8 psd](https://user-images.githubusercontent.com/94256853/236705306-228c624f-bb34-4952-904a-408492f080d1.png)
